@@ -1,2 +1,5 @@
 development:
+  token:
+    args:
+      - 10001
 staging:
